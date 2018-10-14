@@ -1,0 +1,14 @@
+{
+  "name": "chasejs",
+  "version": "1.0.0",
+  "description": "Parsing Chase bank statements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Brandon M. Kelley",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-parser": "^1.0.4"
+  }
+}
